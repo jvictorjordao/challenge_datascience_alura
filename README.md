@@ -19,4 +19,6 @@ Em cada semana, nos foram passadas as seguintes demandas:
 > - Traduzir as informações contidas no dataset;
 > - Criar uma nova variável contendo os gastos diários do(a) cliente e inseri-la na posição 19 do Data Frame.
 
+Acesse o [notebook da semana 1](https://github.com/jvictorjordao/challenge_datascience_alura/blob/main/Semana01%20-%20Limpeza%20dos%20dados.ipynb).
+
 #alurachallengedatascience1
